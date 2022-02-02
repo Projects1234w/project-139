@@ -1,0 +1,39 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+.heading h3 
+{
+    display: inline;
+}
+
+#start, #status, #restart 
+{
+    font-size: 22px;
+}
+
+h4 
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas 
+{
+    border:3px solid white;
+    border-radius: 20px;
+    box-shadow:  5px 5px 5px white;
+}
